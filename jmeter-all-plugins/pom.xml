@@ -25,7 +25,7 @@
         <startup.delay>5</startup.delay>
         <test.duration>600</test.duration>
         <target.rpm>30</target.rpm>
-        <jmeter.plugin.version>3.1.0</jmeter.plugin.version>
+        <jmeter.plugin.version>3.8.0</jmeter.plugin.version>
         <encoding>UTF-8</encoding>
         <project.build.sourceEncoding>${encoding}</project.build.sourceEncoding>
         <project.reporting.outputEncoding>${encoding}</project.reporting.outputEncoding>
