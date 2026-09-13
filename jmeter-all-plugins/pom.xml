@@ -63,6 +63,8 @@
                     <artifact>kg.apc:jmeter-plugins-extras:1.4.0</artifact>
                     <artifact>kg.apc:jmeter-plugins-graphs-basic:2.0</artifact>
                     <artifact>kg.apc:jmeter-plugins-graphs-additional:2.0</artifact>
+
+
                 </jmeterExtensions>
 
                 <propertiesUser>
