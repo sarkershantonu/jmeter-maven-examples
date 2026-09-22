@@ -32,6 +32,18 @@
         <project.resources.sourceEncoding>${encoding}</project.resources.sourceEncoding>
         <fail.allowed.max.percentage>5</fail.allowed.max.percentage>
     </properties>
+
+    <profiles>
+        <profile>
+            <id>plugins-no-listeners</id>
+        </profile>
+        <profile>
+            <id>all-plugins</id>
+        </profile>
+        <profile>
+            <id>reports-only</id>
+        </profile>
+    </profiles>
     <build><plugins>
         <plugin>
             <groupId>com.lazerycode.jmeter</groupId>
