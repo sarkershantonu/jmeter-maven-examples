@@ -137,7 +137,7 @@
                                 <artifact>nz.co.breakpoint:jmeter-junit-reporter:1.1</artifact>
                                 <artifact>com.blazemeter.jmeter:jmeter-bzm-http2:3.2.0</artifact>
                                 <artifact>com.blazemeter:jmeter-bzm-correlation-recorder:3.1.1</artifact>
-                                <!--<artifact>com.blazemeter:jmeter-bzm-rte:3.2.2</artifact>-->
+                                <artifact>com.blazemeter:jmeter-bzm-rte:3.2.2</artifact>
                                 <artifact>com.blazemeter:jmeter-parallel:0.13.1</artifact>
                                 <artifact>com.blazemeter:jmeter-plugins-wsc:0.7</artifact>
                                 <artifact>com.blazemeter:jmeter-plugins-rotating-listener:0.2</artifact>
